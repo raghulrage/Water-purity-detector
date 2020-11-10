@@ -11,14 +11,14 @@ Apparatus Required
   6. Notifier
 -----------------------------------------
 
-Connections and Direction
+## Connections and Direction
 
-Connect turbidity sensor with aurdino board using wires and bread board
+- Connect turbidity sensor with aurdino board using wires and bread board
 
-Connect notifier with aurdino board
+- Connect notifier with aurdino board
 
-Upload the code in audrdino board
+- Upload the code in audrdino board
 
-Place the turbidity sensor in water to test the purity level
+- Place the turbidity sensor in water to test the purity level
 
-Run the aurdino
+- Run the aurdino
